@@ -12,7 +12,7 @@ const Header = (props) => {
           <div className="flex md:flex-col flex-row gap-2.5 items-center justify-center p-2.5 w-full">
             <div className="flex flex-1 flex-col items-center justify-center p-2.5 w-full">
               <div className="flex flex-col items-center justify-center p-2.5 w-full">
-                <div className="flex sm:flex-col flex-row gap-[35px] items-center justify-between px-5 w-full">
+                <div className="flex sm:flex-col flex-row gap-[35px] sm:grid items-center justify-between px-5 w-full">
                   <Img
                     className="h-[27px] w-[63px]"
                     src="images/img_logo.svg"
